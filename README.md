@@ -12,4 +12,6 @@
 
 # coverage
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/779fae9cb8abc7b4e398/test_coverage)](https://codeclimate.com/github/dqmdz/clase-2023-08-23/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/779fae9cb8abc7b4e398/test_coverage)](https://code
+
+## TODO agregar badges fantásticos
